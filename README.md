@@ -1,1 +1,1 @@
-# mdtechtemp.github.io
+[# mdtechtemp.github.io](https://hitechticc.wixsite.com/tech-tamil-md)
