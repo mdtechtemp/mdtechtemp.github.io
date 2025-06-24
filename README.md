@@ -1,6 +1,6 @@
 [#Website under development so click here for old web](https://hitechticc.wixsite.com/tech-tamil-md)
 
-[TECH TAMIL MD](https:/YOUTUBE.COM/@TECHTAMILMD)
+[#TECH TAMIL MD](https:/YOUTUBE.COM/@TECHTAMILMD)
 
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 <p align="center">
