@@ -1,4 +1,5 @@
 [#Website under development so click here for old web](https://hitechticc.wixsite.com/tech-tamil-md)
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
 <p align="center">
 🔐  Hacker | 💻 Developer | ⚙️ Automation Enthusiast <br>
 🚀 Learning Everyday
